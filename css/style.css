@@ -1,0 +1,54 @@
+
+.container ul li {
+    padding: 10px;
+}
+
+
+.im ul li a {
+    
+    text-transform: uppercase;
+    
+}
+
+
+.fluid-container
+{
+    background:linear-gradient(to right,lightblue,lightpink);
+      
+     
+}
+.container a:hover
+{
+    background-color: chartreuse;
+}
+.container
+{    
+    background:linear-gradient(to right,lightblue,lightpink);
+      
+    
+}
+
+.d1{
+    background-color:yellow;
+    width:1500px;
+}
+.d1 img
+{
+width:100%;
+}
+.col-sm-4,.col-sm-8
+{
+    background-color: lightslategray;
+    
+}
+.caps
+{
+    text-transform: uppercase;
+}
+body{
+    background:linear-gradient(to right bottom,lightgrey,lightblue);
+}
+ul{
+    position: fixed;
+    top:0;
+}
