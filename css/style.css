@@ -1,15 +1,7 @@
 
 .container ul li {
-    padding: 10px;
+    padding: 30px;
 }
-
-
-.im ul li a {
-    
-    text-transform: uppercase;
-    
-}
-
 
 .fluid-container
 {
@@ -21,11 +13,18 @@
 {
     background-color: chartreuse;
 }
-.container
-{    
+.container 
+{    /* position: sticky;
+    top:0; */
     background:linear-gradient(to right,lightblue,lightpink);
-      
+    text-transform: uppercase;
+   
     
+}
+.nav nav-tabs
+{
+    
+    /* top:0; */
 }
 
 .d1{
@@ -36,19 +35,15 @@
 {
 width:100%;
 }
-.col-sm-4,.col-sm-8
+/* .col-sm-4,.col-sm-8
 {
-    background-color: lightslategray;
+     background-color:;
     
-}
+} */
 .caps
 {
     text-transform: uppercase;
 }
 body{
     background:linear-gradient(to right bottom,lightgrey,lightblue);
-}
-ul{
-    position: fixed;
-    top:0;
 }
